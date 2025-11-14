@@ -3,7 +3,7 @@ function Perfil() {
     <section>
       <h2>Perfil Profesional</h2>
       <p>
-        Soy un desarrollador front-end en formación, con habilidades en React,
+        Soy un desarrollador de sofware en formación, con habilidades en React,
         JavaScript, HTML, CSS y Git. Me destaco por mi responsabilidad,
         pensamiento analítico y capacidad para aprender rápidamente.
       </p>
