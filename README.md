@@ -81,7 +81,7 @@ docs: agregar captura de pantalla del proyecto
 
 A continuación se incluye la captura del CV completo ejecutándose en el navegador:
 
-![alt text](<CAPTURAS/CV EN REACT.png>)
+![Vista previa](<CAPTURAS/CV EN REACT.png>)
 
 Asegúrate de colocar tu propia captura en la raíz del proyecto como screenshot.png.
 
