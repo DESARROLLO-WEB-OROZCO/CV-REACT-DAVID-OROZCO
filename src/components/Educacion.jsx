@@ -4,10 +4,10 @@ function Educacion() {
       <h2>Educación</h2>
 
       <ul>
-        <li>Técnico en Programación – SENA (2023)</li>
-        <li>Curso de React – Udemy (2024)</li>
-        <li>Curso de Git y GitHub – Platzi (2024)</li>
-        <li>Diplomado en Desarrollo Web – SENA (2023)</li>
+        <li>
+          <h3>APRENDIZ EN ANALISIS Y DESARROLLO DE SOFTWARE</h3>
+          <p>SENA - 2023 - Presente</p>
+        </li>
       </ul>
     </section>
   );
